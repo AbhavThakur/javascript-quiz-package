@@ -4,6 +4,8 @@ A super fancy CLI tool.
 
 ## Take the Quiz
 
+## Checkout the [Package](https://www.npmjs.com/package/hackhubsquiz)
+
 ```
 npx hackhubsquiz
 ```
